@@ -1,0 +1,1 @@
+export default function App() { return ( <div> <h1>Welcome to Sly Study 🐺</h1> <p>Your study companion</p> </div> ) }
